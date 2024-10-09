@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-
+<a href="https://git.io/typing-svg"><img src="https://github.com/user-attachments/assets/5a977e43-c47e-4fd6-ade2-638733756f33" alt="Typing SVG" /></a>
 </div>
 
 <br>

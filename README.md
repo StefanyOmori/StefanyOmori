@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<a href="mailto:s.miyahara.o05@gmail.com">
+<a href="mailto:stefany.miyahara@gmail.com">
 <img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/3fdfe405-61cf-47df-8445-40d2207778d3">
 </a>
 
